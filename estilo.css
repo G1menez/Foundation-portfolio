@@ -1,0 +1,32 @@
+   /* descrição */
+#my-info{      
+ background-color: rgb(63, 89, 118);
+ display: inline;
+ color: white;
+}
+/* cabeçalho */
+#cabeçalho{
+    background-color: rgb(63, 89, 118);
+    color: rgb(252, 252, 252);
+}
+/* tamanho img */
+img
+{
+    height: 175px;
+}
+/* cor de fundo botão */
+#botao
+{
+    background-color: rgb(63, 89, 118);
+}
+/* cor do texto dos links */
+a
+{
+    color: rgb(63, 89, 118);
+}
+/* classe pra centralizar */
+.central
+{
+    display: flex;
+    justify-content: center;
+}
